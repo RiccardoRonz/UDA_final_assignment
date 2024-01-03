@@ -1,0 +1,499 @@
+cik,ticker,name_sec,name_sp500,added,sector,sub_industry,url
+320193,AAPL,Apple Inc.,Apple Inc.,1982-11-30,Information Technology,"Technology Hardware, Storage & Peripherals",https://www.sec.gov/Archives/edgar/data/320193/000032019323000106/0000320193-23-000106.txt
+789019,MSFT,MICROSOFT CORP,Microsoft,1994-06-01,Information Technology,Systems Software,https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/0000950170-23-035122.txt
+1652044,GOOGL,Alphabet Inc.,Alphabet Inc. (Class A),2014-04-03,Communication Services,Interactive Media & Services,https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/0001652044-23-000016.txt
+1018724,AMZN,AMAZON COM INC,Amazon,2005-11-18,Consumer Discretionary,Broadline Retail,https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/0001018724-23-000004.txt
+1045810,NVDA,NVIDIA CORP,Nvidia,2001-11-30,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/0001045810-23-000017.txt
+1326801,META,"Meta Platforms, Inc.",Meta Platforms,2013-12-23,Communication Services,Interactive Media & Services,https://www.sec.gov/Archives/edgar/data/1326801/000132680123000013/0001326801-23-000013.txt
+1318605,TSLA,"Tesla, Inc.","Tesla, Inc.",2020-12-21,Consumer Discretionary,Automobile Manufacturers,https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/0000950170-23-001409.txt
+59478,LLY,ELI LILLY & Co,Eli Lilly and Company,1970-12-31,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/0000059478-23-000082.txt
+1403161,V,VISA INC.,Visa Inc.,2009-12-21,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/1403161/000140316123000099/0001403161-23-000099.txt
+1730168,AVGO,Broadcom Inc.,Broadcom Inc.,2014-05-08,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/1730168/000173016823000096/0001730168-23-000096.txt
+731766,UNH,UNITEDHEALTH GROUP INC,UnitedHealth Group,1994-07-01,Health Care,Managed Health Care,https://www.sec.gov/Archives/edgar/data/731766/000073176623000008/0000731766-23-000008.txt
+19617,JPM,JPMORGAN CHASE & CO,JPMorgan Chase,1975-06-30,Financials,Diversified Banks,https://www.sec.gov/Archives/edgar/data/19617/000001961723000231/0000019617-23-000231.txt
+104169,WMT,Walmart Inc.,Walmart,1982-08-31,Consumer Staples,Consumer Staples Merchandise Retail,https://www.sec.gov/Archives/edgar/data/104169/000010416923000020/0000104169-23-000020.txt
+34088,XOM,EXXON MOBIL CORP,ExxonMobil,1957-03-04,Energy,Integrated Oil & Gas,https://www.sec.gov/Archives/edgar/data/34088/000003408823000020/0000034088-23-000020.txt
+1141391,MA,Mastercard Inc,Mastercard,2008-07-18,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/1141391/000114139123000020/0001141391-23-000020.txt
+200406,JNJ,JOHNSON & JOHNSON,Johnson & Johnson,1973-06-30,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/200406/000020040623000016/0000200406-23-000016.txt
+354950,HD,"HOME DEPOT, INC.",Home Depot (The),1988-03-31,Consumer Discretionary,Home Improvement Retail,https://www.sec.gov/Archives/edgar/data/354950/000035495023000059/0000354950-23-000059.txt
+80424,PG,PROCTER & GAMBLE Co,Procter & Gamble,1957-03-04,Consumer Staples,Personal Care Products,https://www.sec.gov/Archives/edgar/data/80424/000008042423000073/0000080424-23-000073.txt
+909832,COST,COSTCO WHOLESALE CORP /NEW,Costco,1993-10-01,Consumer Staples,Consumer Staples Merchandise Retail,https://www.sec.gov/Archives/edgar/data/909832/000090983223000042/0000909832-23-000042.txt
+1341439,ORCL,ORACLE CORP,Oracle Corporation,1989-08-31,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/0000950170-23-028914.txt
+796343,ADBE,ADOBE INC.,Adobe Inc.,1997-05-05,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/796343/000079634323000007/0000796343-23-000007.txt
+93410,CVX,CHEVRON CORP,Chevron Corporation,1957-03-04,Energy,Integrated Oil & Gas,https://www.sec.gov/Archives/edgar/data/93410/000009341023000009/0000093410-23-000009.txt
+1551152,ABBV,AbbVie Inc.,AbbVie,2012-12-31,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/1551152/000155115223000011/0001551152-23-000011.txt
+310158,MRK,"Merck & Co., Inc.",Merck & Co.,1957-03-04,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/310158/000162828023005061/0001628280-23-005061.txt
+70858,BAC,BANK OF AMERICA CORP /DE/,Bank of America,1976-06-30,Financials,Diversified Banks,https://www.sec.gov/Archives/edgar/data/70858/000007085823000092/0000070858-23-000092.txt
+21344,KO,COCA COLA CO,Coca-Cola Company (The),1957-03-04,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,https://www.sec.gov/Archives/edgar/data/21344/000002134423000011/0000021344-23-000011.txt
+1108524,CRM,"Salesforce, Inc.",Salesforce,2008-09-15,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/1108524/000110852423000011/0001108524-23-000011.txt
+77476,PEP,PEPSICO INC,PepsiCo,1957-03-04,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,https://www.sec.gov/Archives/edgar/data/77476/000007747623000007/0000077476-23-000007.txt
+2488,AMD,ADVANCED MICRO DEVICES INC,Advanced Micro Devices,2017-03-20,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/2488/000000248823000047/0000002488-23-000047.txt
+1467373,ACN,Accenture plc,Accenture,2011-07-06,Information Technology,IT Consulting & Other Services,https://www.sec.gov/Archives/edgar/data/1467373/000146737323000324/0001467373-23-000324.txt
+63908,MCD,MCDONALDS CORP,McDonald's,1970-06-30,Consumer Discretionary,Restaurants,https://www.sec.gov/Archives/edgar/data/63908/000006390823000012/0000063908-23-000012.txt
+1065280,NFLX,NETFLIX INC,Netflix,2010-12-20,Communication Services,Movies & Entertainment,https://www.sec.gov/Archives/edgar/data/1065280/000106528023000035/0001065280-23-000035.txt
+858877,CSCO,"CISCO SYSTEMS, INC.",Cisco,1993-12-01,Information Technology,Communications Equipment,https://www.sec.gov/Archives/edgar/data/858877/000085887723000023/0000858877-23-000023.txt
+97745,TMO,THERMO FISHER SCIENTIFIC INC.,Thermo Fisher Scientific,2004-08-03,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/97745/000009774523000008/0000097745-23-000008.txt
+1707925,LIN,LINDE PLC,Linde plc,1992-07-01,Materials,Industrial Gases,https://www.sec.gov/Archives/edgar/data/1707925/000162828023005434/0001628280-23-005434.txt
+50863,INTC,INTEL CORP,Intel,1976-12-31,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/50863/000005086323000006/0000050863-23-000006.txt
+1800,ABT,ABBOTT LABORATORIES,Abbott,1957-03-04,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1800/000162828023004026/0001628280-23-004026.txt
+320187,NKE,"NIKE, Inc.","Nike, Inc.",1988-11-30,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/0000320187-23-000039.txt
+1283699,TMUS,"T-Mobile US, Inc.",T-Mobile US,2019-07-15,Communication Services,Wireless Telecommunication Services,https://www.sec.gov/Archives/edgar/data/1283699/000128369923000016/0001283699-23-000016.txt
+72971,WFC,WELLS FARGO & COMPANY/MN,Wells Fargo,1976-06-30,Financials,Diversified Banks,https://www.sec.gov/Archives/edgar/data/72971/000007297123000071/0000072971-23-000071.txt
+1166691,CMCSA,COMCAST CORP,Comcast,2002-11-19,Communication Services,Cable & Satellite,https://www.sec.gov/Archives/edgar/data/1166691/000116669123000010/0001166691-23-000010.txt
+896878,INTU,INTUIT INC.,Intuit,2000-12-05,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/896878/000089687823000034/0000896878-23-000034.txt
+1744489,DIS,Walt Disney Co,Walt Disney,1976-06-30,Communication Services,Movies & Entertainment,https://www.sec.gov/Archives/edgar/data/1744489/000174448923000216/0001744489-23-000216.txt
+313616,DHR,DANAHER CORP /DE/,Danaher Corporation,1998-11-18,Health Care,Life Sciences Tolls & Services,https://www.sec.gov/Archives/edgar/data/313616/000031361623000087/0000313616-23-000087.txt
+12927,BA,BOEING CO,Boeing,1957-03-04,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/12927/000001292723000007/0000012927-23-000007.txt
+804328,QCOM,QUALCOMM INC/DE,Qualcomm,1999-07-22,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/804328/000080432823000055/0000804328-23-000055.txt
+732712,VZ,VERIZON COMMUNICATIONS INC,Verizon,1983-11-30,Communication Services,Integrated Telecommunication Services,https://www.sec.gov/Archives/edgar/data/732712/000073271223000012/0000732712-23-000012.txt
+78003,PFE,PFIZER INC,Pfizer,1957-03-04,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/78003/000007800323000024/0000078003-23-000024.txt
+97476,TXN,TEXAS INSTRUMENTS INC,Texas Instruments,2001-03-12,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/97476/000009747623000007/0000097476-23-000007.txt
+895421,MS,MORGAN STANLEY,Morgan Stanley,1993-07-29,Financials,Investment Banking & Brokerage,https://www.sec.gov/Archives/edgar/data/895421/000089542123000284/0000895421-23-000284.txt
+1373715,NOW,"ServiceNow, Inc.",ServiceNow,2019-11-21,Information Technology,Systems Software,https://www.sec.gov/Archives/edgar/data/1373715/000137371523000035/0001373715-23-000035.txt
+318154,AMGN,AMGEN INC,Amgen,1992-01-02,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/318154/000031815423000017/0000318154-23-000017.txt
+51143,IBM,INTERNATIONAL BUSINESS MACHINES CORP,IBM,1957-03-04,Information Technology,IT Consulting & Other Services,https://www.sec.gov/Archives/edgar/data/51143/000155837023002376/0001558370-23-002376.txt
+1413329,PM,Philip Morris International Inc.,Philip Morris International,2008-03-31,Consumer Staples,Tobacco,https://www.sec.gov/Archives/edgar/data/1413329/000141332923000025/0001413329-23-000025.txt
+100885,UNP,UNION PACIFIC CORP,Union Pacific Corporation,1957-03-04,Industrials,Rail Transportation,https://www.sec.gov/Archives/edgar/data/100885/000143774923002959/0001437749-23-002959.txt
+1393818,BX,Blackstone Inc.,Blackstone,2023-09-18,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/1393818/000119312523048733/0001193125-23-048733.txt
+18230,CAT,CATERPILLAR INC,Caterpillar Inc.,1957-03-04,Industrials,Construction Machinery & Heavy Transportation Equipment,https://www.sec.gov/Archives/edgar/data/18230/000001823023000011/0000018230-23-000011.txt
+64040,SPGI,S&P Global Inc.,S&P Global,1957-03-04,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/64040/000006404023000058/0000064040-23-000058.txt
+1163165,COP,CONOCOPHILLIPS,ConocoPhillips,1957-03-04,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/1163165/000116316523000006/0001163165-23-000006.txt
+6951,AMAT,APPLIED MATERIALS INC /DE,Applied Materials,1995-03-16,Information Technology,Semiconductor Materials & Equipment,https://www.sec.gov/Archives/edgar/data/6951/000000695123000041/0000006951-23-000041.txt
+1090727,UPS,UNITED PARCEL SERVICE INC,United Parcel Service,2002-07-22,Industrials,Air Freight & Logistics,https://www.sec.gov/Archives/edgar/data/1090727/000109072723000006/0001090727-23-000006.txt
+773840,HON,HONEYWELL INTERNATIONAL INC,Honeywell,1957-03-04,Industrials,Industrial Conglomerates,https://www.sec.gov/Archives/edgar/data/773840/000077384023000013/0000773840-23-000013.txt
+40545,GE,GENERAL ELECTRIC CO,General Electric,1957-03-04,Industrials,Industrial Conglomerates,https://www.sec.gov/Archives/edgar/data/40545/000004054523000023/0000040545-23-000023.txt
+4962,AXP,AMERICAN EXPRESS CO,American Express,1976-06-30,Financials,Consumer Finance,https://www.sec.gov/Archives/edgar/data/4962/000000496223000006/0000004962-23-000006.txt
+1543151,UBER,"Uber Technologies, Inc",Uber,2023-12-18,Industrials,Passenger Ground Transportation,https://www.sec.gov/Archives/edgar/data/1543151/000154315123000010/0001543151-23-000010.txt
+60667,LOW,LOWES COMPANIES INC,Lowe's,1984-02-29,Consumer Discretionary,Home Improvement Retail,https://www.sec.gov/Archives/edgar/data/60667/000006066723000034/0000060667-23-000034.txt
+753308,NEE,NEXTERA ENERGY INC,NextEra Energy,1976-06-30,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/753308/000075330823000019/0000753308-23-000019.txt
+316709,SCHW,SCHWAB CHARLES CORP,Charles Schwab Corporation,1997-06-02,Financials,Investment Banking & Brokerage,https://www.sec.gov/Archives/edgar/data/316709/000031670923000009/0000316709-23-000009.txt
+886982,GS,GOLDMAN SACHS GROUP INC,Goldman Sachs,2002-07-22,Financials,Investment Banking & Brokerage,https://www.sec.gov/Archives/edgar/data/886982/000088698223000003/0000886982-23-000003.txt
+1045609,PLD,"Prologis, Inc.",Prologis,2003-07-17,Real Estate,Industrial REITs,https://www.sec.gov/Archives/edgar/data/1045609/000156459023001902/0001564590-23-001902.txt
+1075531,BKNG,Booking Holdings Inc.,Booking Holdings,2009-11-06,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/1075531/000107553123000016/0001075531-23-000016.txt
+1364742,BLK,BlackRock Inc.,BlackRock,2011-04-04,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/1364742/000095017023004343/0000950170-23-004343.txt
+732717,T,AT&T INC.,AT&T,1983-11-30,Communication Services,Integrated Telecommunication Services,https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/0000732717-23-000011.txt
+101829,RTX,RTX Corp,RTX Corporation,1957-03-04,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/0000101829-23-000009.txt
+1035267,ISRG,INTUITIVE SURGICAL INC,Intuitive Surgical,2008-06-02,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1035267/000103526723000019/0001035267-23-000019.txt
+1156039,ELV,"Elevance Health, Inc.",Elevance Health,2002-07-25,Health Care,Managed Health Care,https://www.sec.gov/Archives/edgar/data/1156039/000115603923000007/0001156039-23-000007.txt
+936468,LMT,LOCKHEED MARTIN CORP,Lockheed Martin,1957-03-04,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/936468/000093646823000009/0000936468-23-000009.txt
+310764,SYK,STRYKER CORP,Stryker Corporation,2000-12-12,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/310764/000031076423000017/0000310764-23-000017.txt
+315189,DE,DEERE & CO,John Deere,1957-03-04,Industrials,Agricultural & Farm Machinery,https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/0001558370-23-019812.txt
+829224,SBUX,STARBUCKS CORP,Starbucks,2000-06-07,Consumer Discretionary,Restaurants,https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/0000829224-23-000058.txt
+1613103,MDT,Medtronic plc,Medtronic,1986-10-31,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1613103/000161310323000040/0001613103-23-000040.txt
+875320,VRTX,VERTEX PHARMACEUTICALS INC / MA,Vertex Pharmaceuticals,2013-09-23,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/875320/000087532023000007/0000875320-23-000007.txt
+14272,BMY,BRISTOL MYERS SQUIBB CO,Bristol Myers Squibb,1957-03-04,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/14272/000001427223000046/0000014272-23-000046.txt
+109198,TJX,TJX COMPANIES INC /DE/,TJX Companies,1985-09-30,Consumer Discretionary,Apparel Retail,https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/0000109198-23-000004.txt
+882095,GILD,"GILEAD SCIENCES, INC.",Gilead Sciences,2004-07-01,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/882095/000088209523000007/0000882095-23-000007.txt
+707549,LRCX,LAM RESEARCH CORP,Lam Research,2012-06-29,Information Technology,Semiconductor Materials & Equipment,https://www.sec.gov/Archives/edgar/data/707549/000070754923000102/0000707549-23-000102.txt
+1327567,PANW,Palo Alto Networks Inc,Palo Alto Networks,2023-06-20,Information Technology,Systems Software,https://www.sec.gov/Archives/edgar/data/1327567/000132756723000024/0001327567-23-000024.txt
+6281,ADI,ANALOG DEVICES INC,Analog Devices,1999-10-12,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/6281/000000628123000203/0000006281-23-000203.txt
+1103982,MDLZ,"Mondelez International, Inc.",Mondelez International,2012-10-02,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/1103982/000110398223000006/0001103982-23-000006.txt
+1053507,AMT,AMERICAN TOWER CORP /MA/,American Tower,2007-11-19,Real Estate,Telecom Tower REITs,https://www.sec.gov/Archives/edgar/data/1053507/000105350723000023/0001053507-23-000023.txt
+8670,ADP,AUTOMATIC DATA PROCESSING INC,Automated Data Processing,1981-03-31,Industrials,Human Resource & Employment Services,https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/0000008670-23-000030.txt
+62709,MMC,"MARSH & MCLENNAN COMPANIES, INC.",Marsh McLennan,1987-08-31,Financials,Insurance Brokers,https://www.sec.gov/Archives/edgar/data/62709/000006270923000014/0000062709-23-000014.txt
+64803,CVS,CVS HEALTH Corp,CVS Health,1957-03-04,Health Care,Health Care Services,https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/0000064803-23-000009.txt
+831001,C,CITIGROUP INC,Citigroup,1988-05-31,Financials,Diversified Banks,https://www.sec.gov/Archives/edgar/data/831001/000083100123000037/0000831001-23-000037.txt
+1551182,ETN,Eaton Corp plc,Eaton Corporation,1957-03-04,Industrials,Electrical Components & Equipment,https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/0001551182-23-000004.txt
+80661,PGR,PROGRESSIVE CORP/OH/,Progressive Corporation,1997-08-04,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/80661/000008066123000006/0000080661-23-000006.txt
+872589,REGN,"REGENERON PHARMACEUTICALS, INC.",Regeneron,2013-05-01,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/872589/000180422023000008/0001804220-23-000008.txt
+1559720,ABNB,"Airbnb, Inc.",Airbnb,2023-09-18,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/1559720/000155972023000003/0001559720-23-000003.txt
+896159,CB,Chubb Ltd,Chubb Limited,2010-07-15,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/896159/000089615923000007/0000896159-23-000007.txt
+723125,MU,MICRON TECHNOLOGY INC,Micron Technology,1994-09-27,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/723125/000072312523000054/0000723125-23-000054.txt
+1555280,ZTS,Zoetis Inc.,Zoetis,2013-06-21,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/1555280/000155528023000074/0001555280-23-000074.txt
+883241,SNPS,SYNOPSYS INC,Synopsys,2017-03-16,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/0000883241-23-000019.txt
+1739940,CI,Cigna Group,Cigna,1976-06-30,Health Care,Health Care Services,https://www.sec.gov/Archives/edgar/data/1739940/000173994023000008/0001739940-23-000008.txt
+885725,BSX,BOSTON SCIENTIFIC CORP,Boston Scientific,1995-02-24,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/0000885725-23-000008.txt
+798354,FI,FISERV INC,Fiserv,2001-04-02,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/798354/000079835423000004/0000798354-23-000004.txt
+319201,KLAC,KLA CORP,KLA Corporation,1997-09-30,Information Technology,Semiconductor Materials & Equipment,https://www.sec.gov/Archives/edgar/data/319201/000031920123000031/0000319201-23-000031.txt
+89800,SHW,SHERWIN WILLIAMS CO,Sherwin-Williams,1964-06-30,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/0000089800-23-000007.txt
+92122,SO,SOUTHERN CO,Southern Company,1957-03-04,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/92122/000009212223000012/0000092122-23-000012.txt
+49826,ITW,ILLINOIS TOOL WORKS INC,Illinois Tool Works,1986-02-28,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/49826/000004982623000008/0000049826-23-000008.txt
+1156375,CME,CME GROUP INC.,CME Group,2006-08-11,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1156375/000115637523000020/0001156375-23-000020.txt
+813672,CDNS,CADENCE DESIGN SYSTEMS INC,Cadence Design Systems,2017-09-18,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/813672/000081367223000011/0000813672-23-000011.txt
+1101239,EQIX,EQUINIX INC,Equinix,2015-03-20,Real Estate,Data Center REITs,https://www.sec.gov/Archives/edgar/data/1101239/000162828023004039/0001628280-23-004039.txt
+1326160,DUK,Duke Energy CORP,Duke Energy,1976-06-30,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/1326160/000132616023000073/0001326160-23-000073.txt
+87347,SLB,SCHLUMBERGER LIMITED/NV,Schlumberger,1957-03-04,Energy,Oil & Gas Equipment & Services,https://www.sec.gov/Archives/edgar/data/87347/000156459023000762/0001564590-23-000762.txt
+764180,MO,"ALTRIA GROUP, INC.",Altria,1957-03-04,Consumer Staples,Tobacco,https://www.sec.gov/Archives/edgar/data/764180/000076418023000020/0000764180-23-000020.txt
+1596532,ANET,"Arista Networks, Inc.",Arista Networks,2018-08-28,Information Technology,Communications Equipment,https://www.sec.gov/Archives/edgar/data/1596532/000159653223000016/0001596532-23-000016.txt
+1133421,NOC,NORTHROP GRUMMAN CORP /DE/,Northrop Grumman,1957-03-04,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/1133421/000113342123000006/0001133421-23-000006.txt
+860730,HCA,"HCA Healthcare, Inc.",HCA Healthcare,2015-01-27,Health Care,Health Care Facilities,https://www.sec.gov/Archives/edgar/data/860730/000095017023003234/0000950170-23-003234.txt
+823768,WM,WASTE MANAGEMENT INC,Waste Management,1998-08-31,Industrials,Environmental & Facilities Services,https://www.sec.gov/Archives/edgar/data/823768/000155837023000964/0001558370-23-000964.txt
+1059556,MCO,MOODYS CORP /DE/,Moody's Corporation,1998-07-01,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1059556/000105955623000016/0001059556-23-000016.txt
+1048911,FDX,FEDEX CORP,FedEx,1980-12-31,Industrials,Air Freight & Logistics,https://www.sec.gov/Archives/edgar/data/1048911/000095017023033201/0000950170-23-033201.txt
+36104,USB,US BANCORP \DE\,U.S. Bank,1999-11-01,Financials,Diversified Banks,https://www.sec.gov/Archives/edgar/data/36104/000119312523050691/0001193125-23-050691.txt
+1571949,ICE,"Intercontinental Exchange, Inc.",Intercontinental Exchange,2007-09-26,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1571949/000157194923000006/0001571949-23-000006.txt
+40533,GD,GENERAL DYNAMICS CORP,General Dynamics,1957-03-04,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/40533/000004053323000014/0000040533-23-000014.txt
+821189,EOG,EOG RESOURCES INC,EOG Resources,2000-11-02,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/821189/000082118923000015/0000821189-23-000015.txt
+10795,BDX,BECTON DICKINSON & CO,Becton Dickinson,1972-09-30,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/0000010795-23-000098.txt
+277948,CSX,CSX CORP,CSX,1957-03-04,Industrials,Rail Transportation,https://www.sec.gov/Archives/edgar/data/277948/000027794823000006/0000277948-23-000006.txt
+21665,CL,COLGATE PALMOLIVE CO,Colgate-Palmolive,1957-03-04,Consumer Staples,Household Products,https://www.sec.gov/Archives/edgar/data/21665/000002166523000007/0000021665-23-000007.txt
+1633917,PYPL,"PayPal Holdings, Inc.",PayPal,2015-07-20,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/1633917/000163391723000033/0001633917-23-000033.txt
+315293,AON,Aon plc,Aon,1996-04-23,Financials,Insurance Brokers,https://www.sec.gov/Archives/edgar/data/315293/000162828023004087/0001628280-23-004087.txt
+1048286,MAR,MARRIOTT INTERNATIONAL INC /MD/,Marriott International,1998-05-29,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/1048286/000162828023003485/0001628280-23-003485.txt
+1058090,CMG,CHIPOTLE MEXICAN GRILL INC,Chipotle Mexican Grill,2011-04-28,Consumer Discretionary,Restaurants,https://www.sec.gov/Archives/edgar/data/1058090/000105809023000010/0001058090-23-000010.txt
+27419,TGT,TARGET CORP,Target Corporation,1976-12-31,Consumer Staples,Consumer Staples Merchandise Retail,https://www.sec.gov/Archives/edgar/data/27419/000002741923000015/0000027419-23-000015.txt
+1397187,LULU,lululemon athletica inc.,Lululemon Athletica,2023-10-18,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",https://www.sec.gov/Archives/edgar/data/1397187/000139718723000012/0001397187-23-000012.txt
+713676,PNC,"PNC FINANCIAL SERVICES GROUP, INC.",PNC Financial Services,1988-04-30,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/713676/000071367623000020/0000713676-23-000020.txt
+927653,MCK,MCKESSON CORP,McKesson,1999-01-13,Health Care,Health Care Distributors,https://www.sec.gov/Archives/edgar/data/927653/000092765323000038/0000927653-23-000038.txt
+1413447,NXPI,NXP Semiconductors N.V.,NXP Semiconductors,2021-03-22,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/1413447/000141344723000006/0001413447-23-000006.txt
+2969,APD,"Air Products & Chemicals, Inc.",Air Products and Chemicals,1985-04-30,Materials,Industrial Gases,https://www.sec.gov/Archives/edgar/data/2969/000000296923000047/0000002969-23-000047.txt
+831259,FCX,FREEPORT-MCMORAN INC,Freeport-McMoRan,2011-07-01,Materials,Copper,https://www.sec.gov/Archives/edgar/data/831259/000083125923000013/0000831259-23-000013.txt
+820313,APH,AMPHENOL CORP /DE/,Amphenol,2008-09-30,Information Technology,Electronic Components,https://www.sec.gov/Archives/edgar/data/820313/000155837023001036/0001558370-23-001036.txt
+49071,HUM,HUMANA INC,Humana,2012-12-10,Health Care,Managed Health Care,https://www.sec.gov/Archives/edgar/data/49071/000004907123000011/0000049071-23-000011.txt
+66740,MMM,3M CO,3M,1957-03-04,Industrials,Industrial Conglomerates,https://www.sec.gov/Archives/edgar/data/66740/000006674023000014/0000066740-23-000014.txt
+882835,ROP,ROPER TECHNOLOGIES INC,Roper Technologies,2009-12-23,Information Technology,Electronic Equipment & Instruments,https://www.sec.gov/Archives/edgar/data/882835/000088283523000016/0000882835-23-000016.txt
+76334,PH,PARKER HANNIFIN CORP,Parker Hannifin,1985-11-30,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/76334/000007633423000042/0000076334-23-000042.txt
+865752,MNST,Monster Beverage Corp,Monster Beverage,2012-06-28,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/0001104659-23-027245.txt
+898173,ORLY,O REILLY AUTOMOTIVE INC,O'Reilly Auto Parts,2009-03-27,Consumer Discretionary,Automotive Retail,https://www.sec.gov/Archives/edgar/data/898173/000089817323000011/0000898173-23-000011.txt
+723254,CTAS,CINTAS CORP,Cintas,2001-03-01,Industrials,Diversified Support Services,https://www.sec.gov/Archives/edgar/data/723254/000072325423000025/0000723254-23-000025.txt
+1534701,PSX,Phillips 66,Phillips 66,2012-05-01,Energy,Oil & Gas Refining & Marketing,https://www.sec.gov/Archives/edgar/data/1534701/000153470123000053/0001534701-23-000053.txt
+1510295,MPC,Marathon Petroleum Corp,Marathon Petroleum,2011-07-01,Energy,Oil & Gas Refining & Marketing,https://www.sec.gov/Archives/edgar/data/1510295/000151029523000012/0001510295-23-000012.txt
+31462,ECL,ECOLAB INC.,Ecolab,1989-01-31,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/31462/000155837023001969/0001558370-23-001969.txt
+1091667,CHTR,"CHARTER COMMUNICATIONS, INC. /MO/",Charter Communications,2016-09-08,Communication Services,Cable & Satellite,https://www.sec.gov/Archives/edgar/data/1091667/000109166723000024/0001091667-23-000024.txt
+1260221,TDG,TransDigm Group INC,TransDigm Group,2016-06-03,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/1260221/000126022123000081/0001260221-23-000081.txt
+1466258,TT,Trane Technologies plc,Trane Technologies,2010-11-17,Industrials,Building Products,https://www.sec.gov/Archives/edgar/data/1466258/000146625823000058/0001466258-23-000058.txt
+32604,EMR,EMERSON ELECTRIC CO,Emerson Electric,1965-03-31,Industrials,Electrical Components & Equipment,https://www.sec.gov/Archives/edgar/data/32604/000003260423000044/0000032604-23-000044.txt
+68505,MSI,"Motorola Solutions, Inc.",Motorola Solutions,1957-03-04,Information Technology,Communications Equipment,https://www.sec.gov/Archives/edgar/data/68505/000006850523000015/0000068505-23-000015.txt
+1038357,PXD,PIONEER NATURAL RESOURCES CO,Pioneer Natural Resources,2008-09-24,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/1038357/000103835723000039/0001038357-23-000039.txt
+702165,NSC,NORFOLK SOUTHERN CORP,Norfolk Southern Railway,1957-03-04,Industrials,Rail Transportation,https://www.sec.gov/Archives/edgar/data/702165/000070216523000010/0000702165-23-000010.txt
+1060391,RSG,"REPUBLIC SERVICES, INC.",Republic Services,2008-12-05,Industrials,Environmental & Facilities Services,https://www.sec.gov/Archives/edgar/data/1060391/000106039123000008/0001060391-23-000008.txt
+354190,AJG,Arthur J. Gallagher & Co.,Arthur J. Gallagher & Co.,2016-05-31,Financials,Insurance Brokers,https://www.sec.gov/Archives/edgar/data/354190/000095017023002456/0000950170-23-002456.txt
+75362,PCAR,PACCAR INC,Paccar,1980-12-31,Industrials,Construction Machinery & Heavy Transportation Equipment,https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/0001564590-23-002203.txt
+769397,ADSK,"Autodesk, Inc.",Autodesk,1989-12-01,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/769397/000076939723000036/0000769397-23-000036.txt
+1063761,SPG,SIMON PROPERTY GROUP INC /DE/,Simon Property Group,2002-06-26,Real Estate,Retail REITs,https://www.sec.gov/Archives/edgar/data/1063761/000155837023001840/0001558370-23-001840.txt
+797468,OXY,OCCIDENTAL PETROLEUM CORP /DE/,Occidental Petroleum,1957-03-04,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/797468/000079746823000011/0000797468-23-000011.txt
+1393311,PSA,Public Storage,Public Storage,2005-08-19,Real Estate,Self-Storage REITs,https://www.sec.gov/Archives/edgar/data/1393311/000139331123000012/0001393311-23-000012.txt
+1001250,EL,ESTEE LAUDER COMPANIES INC,Estée Lauder Companies (The),2006-01-05,Consumer Staples,Personal Care Products,https://www.sec.gov/Archives/edgar/data/1001250/000100125023000112/0001001250-23-000112.txt
+882184,DHI,HORTON D R INC /DE/,DR Horton,2005-06-22,Consumer Discretionary,Homebuilding,https://www.sec.gov/Archives/edgar/data/882184/000088218423000115/0000882184-23-000115.txt
+827054,MCHP,MICROCHIP TECHNOLOGY INC,Microchip Technology,2007-09-07,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/827054/000082705423000080/0000827054-23-000080.txt
+766704,WELL,WELLTOWER INC.,Welltower,2009-01-30,Real Estate,Health Care REITs,https://www.sec.gov/Archives/edgar/data/766704/000076670423000010/0000766704-23-000010.txt
+1051470,CCI,CROWN CASTLE INC.,Crown Castle,2012-03-14,Real Estate,Telecom Tower REITs,https://www.sec.gov/Archives/edgar/data/1051470/000105147023000041/0001051470-23-000041.txt
+927628,COF,CAPITAL ONE FINANCIAL CORP,Capital One,1998-07-01,Financials,Consumer Finance,https://www.sec.gov/Archives/edgar/data/927628/000092762823000117/0000927628-23-000117.txt
+92230,TFC,TRUIST FINANCIAL CORP,Truist,1997-12-04,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/92230/000009223023000034/0000092230-23-000034.txt
+1099219,MET,METLIFE INC,MetLife,2000-12-11,Financials,Life & Health Insurance,https://www.sec.gov/Archives/edgar/data/1099219/000109921923000045/0001099219-23-000045.txt
+1467858,GM,General Motors Co,General Motors,2013-06-06,Consumer Discretionary,Automobile Manufacturers,https://www.sec.gov/Archives/edgar/data/1467858/000146785823000029/0001467858-23-000029.txt
+4977,AFL,AFLAC INC,Aflac,1999-05-28,Financials,Life & Health Insurance,https://www.sec.gov/Archives/edgar/data/4977/000000497723000055/0000004977-23-000055.txt
+1783180,CARR,CARRIER GLOBAL Corp,Carrier Global,2020-04-03,Industrials,Building Products,https://www.sec.gov/Archives/edgar/data/1783180/000178318023000012/0001783180-23-000012.txt
+900075,CPRT,COPART INC,Copart,2018-07-02,Industrials,Diversified Support Services,https://www.sec.gov/Archives/edgar/data/900075/000090007523000034/0000900075-23-000034.txt
+1032208,SRE,SEMPRA,Sempra Energy,2017-03-17,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/1032208/000103220823000008/0001032208-23-000008.txt
+37996,F,FORD MOTOR CO,Ford Motor Company,1957-03-04,Consumer Discretionary,Automobile Manufacturers,https://www.sec.gov/Archives/edgar/data/37996/000003799623000012/0000037996-23-000012.txt
+1164727,NEM,NEWMONT Corp /DE/,Newmont,1969-06-30,Materials,Gold,https://www.sec.gov/Archives/edgar/data/1164727/000116472723000011/0001164727-23-000011.txt
+5272,AIG,"AMERICAN INTERNATIONAL GROUP, INC.",American International Group,1980-03-31,Financials,Multi-line Insurance,https://www.sec.gov/Archives/edgar/data/5272/000000527223000007/0000005272-23-000007.txt
+866787,AZO,AUTOZONE INC,AutoZone,1997-01-02,Consumer Discretionary,Automotive Retail,https://www.sec.gov/Archives/edgar/data/866787/000155837023016668/0001558370-23-016668.txt
+1099800,EW,Edwards Lifesciences Corp,Edwards Lifesciences,2011-04-01,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1099800/000109980023000005/0001099800-23-000005.txt
+1093557,DXCM,DEXCOM INC,Dexcom,2020-05-12,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1093557/000109355723000024/0001093557-23-000024.txt
+723531,PAYX,PAYCHEX INC,Paychex,1998-10-01,Industrials,Human Resource & Employment Services,https://www.sec.gov/Archives/edgar/data/723531/000095017023032988/0000950170-23-032988.txt
+1418135,KDP,Keurig Dr Pepper Inc.,Keurig Dr Pepper,2022-06-21,Consumer Staples,Soft Drinks & Non-alcoholic Beverages,https://www.sec.gov/Archives/edgar/data/1418135/000141813523000003/0001418135-23-000003.txt
+745732,ROST,"ROSS STORES, INC.",Ross Stores,2009-12-21,Consumer Discretionary,Apparel Retail,https://www.sec.gov/Archives/edgar/data/745732/000074573223000013/0000745732-23-000013.txt
+1004980,PCG,PG&E Corp,PG&E Corporation,2022-10-03,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/1004980/000100498023000029/0001004980-23-000029.txt
+1585689,HLT,Hilton Worldwide Holdings Inc.,Hilton Worldwide,2017-06-19,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/1585689/000158568923000036/0001585689-23-000036.txt
+1637459,KHC,Kraft Heinz Co,Kraft Heinz,2015-07-06,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/1637459/000163745923000009/0001637459-23-000009.txt
+874716,IDXX,IDEXX LABORATORIES INC /DE,Idexx Laboratories,2017-01-05,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/874716/000087471623000006/0000874716-23-000006.txt
+1262039,FTNT,"Fortinet, Inc.",Fortinet,2018-10-11,Information Technology,Systems Software,https://www.sec.gov/Archives/edgar/data/1262039/000126203923000010/0001262039-23-000010.txt
+4447,HES,HESS CORP,Hess Corporation,1984-05-31,Energy,Integrated Oil & Gas,https://www.sec.gov/Archives/edgar/data/4447/000162828023005059/0001628280-23-005059.txt
+1385157,TEL,TE Connectivity Ltd.,TE Connectivity,2011-10-17,Information Technology,Electronic Manufacturing Services,https://www.sec.gov/Archives/edgar/data/1385157/000155837023018833/0001558370-23-018833.txt
+1035002,VLO,VALERO ENERGY CORP/TX,Valero Energy,2002-12-20,Energy,Oil & Gas Refining & Marketing,https://www.sec.gov/Archives/edgar/data/1035002/000103500223000027/0001035002-23-000027.txt
+16918,STZ,"CONSTELLATION BRANDS, INC.",Constellation Brands,2005-07-01,Consumer Staples,Distillers & Vintners,https://www.sec.gov/Archives/edgar/data/16918/000001691823000045/0000016918-23-000045.txt
+4904,AEP,AMERICAN ELECTRIC POWER CO INC,American Electric Power,1957-03-04,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/4904/000000490423000011/0000004904-23-000011.txt
+878927,ODFL,"OLD DOMINION FREIGHT LINE, INC.",Old Dominion,2019-12-09,Industrials,Cargo Ground Transportation,https://www.sec.gov/Archives/edgar/data/878927/000095017023003783/0000950170-23-003783.txt
+73309,NUE,NUCOR CORP,Nucor,1985-04-30,Materials,Steel,https://www.sec.gov/Archives/edgar/data/73309/000156459023002793/0001564590-23-002793.txt
+1408198,MSCI,MSCI Inc.,MSCI,2018-04-04,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1408198/000140819823000011/0001408198-23-000011.txt
+86312,TRV,"TRAVELERS COMPANIES, INC.",Travelers Companies (The),2002-08-21,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/86312/000008631223000011/0000086312-23-000011.txt
+107263,WMB,"WILLIAMS COMPANIES, INC.",Williams Companies,1975-03-31,Energy,Oil & Gas Storage & Transportation,https://www.sec.gov/Archives/edgar/data/107263/000010726323000007/0000107263-23-000007.txt
+1297996,DLR,"DIGITAL REALTY TRUST, INC.",Digital Realty,2016-05-18,Real Estate,Data Center REITs,https://www.sec.gov/Archives/edgar/data/1297996/000155837023002087/0001558370-23-002087.txt
+726728,O,REALTY INCOME CORP,Realty Income,2015-04-07,Real Estate,Retail REITs,https://www.sec.gov/Archives/edgar/data/726728/000072672823000044/0000726728-23-000044.txt
+55785,KMB,KIMBERLY CLARK CORP,Kimberly-Clark,1957-03-04,Consumer Staples,Household Products,https://www.sec.gov/Archives/edgar/data/55785/000005578523000012/0000055785-23-000012.txt
+1478242,IQV,IQVIA HOLDINGS INC.,IQVIA,2017-08-29,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/1478242/000147824223000044/0001478242-23-000044.txt
+715957,D,"DOMINION ENERGY, INC",Dominion Energy,2016-11-30,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/715957/000095017023003287/0000950170-23-003287.txt
+277135,GWW,"W.W. GRAINGER, INC.",W. W. Grainger,1981-06-30,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/277135/000027713523000014/0000277135-23-000014.txt
+7084,ADM,Archer-Daniels-Midland Co,Archer-Daniels-Midland,1957-03-04,Consumer Staples,Agricultural Products & Services,https://www.sec.gov/Archives/edgar/data/7084/000000708423000010/0000007084-23-000010.txt
+1090872,A,"AGILENT TECHNOLOGIES, INC.",Agilent Technologies,2000-06-05,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/1090872/000109087223000020/0001090872-23-000020.txt
+1140859,COR,"Cencora, Inc.",Cencora,2001-08-30,Health Care,Health Care Distributors,https://www.sec.gov/Archives/edgar/data/1140859/000114085923000197/0001140859-23-000197.txt
+1944048,KVUE,Kenvue Inc.,Kenvue,2023-08-25,Consumer Staples,Personal Care Products,
+1071739,CNC,CENTENE CORP,Centene Corporation,2016-03-30,Health Care,Managed Health Care,https://www.sec.gov/Archives/edgar/data/1071739/000107173923000047/0001071739-23-000047.txt
+202058,LHX,"L3HARRIS TECHNOLOGIES, INC. /DE/",L3Harris,2008-09-22,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/202058/000020205823000014/0000202058-23-000014.txt
+1390777,BK,Bank of New York Mellon Corp,Bank of New York Mellon,1995-03-31,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/1390777/000139077723000033/0001390777-23-000033.txt
+1039684,OKE,ONEOK INC /NEW/,ONEOK,2010-03-15,Energy,Oil & Gas Storage & Transportation,https://www.sec.gov/Archives/edgar/data/1039684/000103968423000016/0001039684-23-000016.txt
+920760,LEN,LENNAR CORP /NEW/,Lennar,2005-10-04,Consumer Discretionary,Homebuilding,https://www.sec.gov/Archives/edgar/data/920760/000162828023001606/0001628280-23-001606.txt
+1067701,URI,"UNITED RENTALS, INC.",United Rentals,2014-09-20,Industrials,Trading Companies & Distributors,https://www.sec.gov/Archives/edgar/data/1067701/000106770123000010/0001067701-23-000010.txt
+40704,GIS,GENERAL MILLS INC,General Mills,1957-03-04,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/40704/000119312523177500/0001193125-23-177500.txt
+1506307,KMI,"KINDER MORGAN, INC.",Kinder Morgan,2012-05-25,Energy,Oil & Gas Storage & Transportation,https://www.sec.gov/Archives/edgar/data/1506307/000150630723000023/0001506307-23-000023.txt
+1109357,EXC,EXELON CORP,Exelon,1957-03-04,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/1109357/000110935723000018/0001109357-23-000018.txt
+820027,AMP,AMERIPRISE FINANCIAL INC,Ameriprise Financial,2005-10-03,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/820027/000082002723000014/0000820027-23-000014.txt
+1868275,CEG,Constellation Energy Corp,Constellation Energy,2022-02-02,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/1868275/000186827523000014/0001868275-23-000014.txt
+1058290,CTSH,COGNIZANT TECHNOLOGY SOLUTIONS CORP,Cognizant,2006-11-17,Information Technology,IT Consulting & Other Services,https://www.sec.gov/Archives/edgar/data/1058290/000105829023000027/0001058290-23-000027.txt
+712515,EA,ELECTRONIC ARTS INC.,Electronic Arts,2002-07-22,Communication Services,Interactive Home Entertainment,https://www.sec.gov/Archives/edgar/data/712515/000071251523000028/0000712515-23-000028.txt
+1751788,DOW,DOW INC.,Dow Inc.,2019-04-01,Materials,Commodity Chemicals,https://www.sec.gov/Archives/edgar/data/1751788/000175178823000014/0001751788-23-000014.txt
+47111,HSY,HERSHEY CO,Hershey's,1957-03-04,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/47111/000004711123000012/0000047111-23-000012.txt
+899051,ALL,ALLSTATE CORP,Allstate,1995-07-13,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/899051/000089905123000020/0000899051-23-000020.txt
+96021,SYY,SYSCO CORP,Sysco,1986-12-31,Consumer Staples,Food Distributors,https://www.sec.gov/Archives/edgar/data/96021/000009602123000117/0000096021-23-000117.txt
+1037868,AME,AMETEK INC/,Ametek,2013-09-23,Industrials,Electrical Components & Equipment,https://www.sec.gov/Archives/edgar/data/1037868/000103786823000012/0001037868-23-000012.txt
+1137774,PRU,PRUDENTIAL FINANCIAL INC,Prudential Financial,2002-07-22,Financials,Life & Health Insurance,https://www.sec.gov/Archives/edgar/data/1137774/000113777423000040/0001137774-23-000040.txt
+1097864,ON,ON SEMICONDUCTOR CORP,ON Semiconductor,2022-06-21,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/1097864/000162828023002350/0001628280-23-002350.txt
+1781335,OTIS,Otis Worldwide Corp,Otis Worldwide,2020-04-03,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/1781335/000178133523000009/0001781335-23-000009.txt
+815556,FAST,FASTENAL CO,Fastenal,2008-09-15,Industrials,Trading Companies & Distributors,https://www.sec.gov/Archives/edgar/data/815556/000081555623000009/0000815556-23-000009.txt
+1041061,YUM,YUM BRANDS INC,Yum! Brands,1997-10-06,Consumer Discretionary,Restaurants,https://www.sec.gov/Archives/edgar/data/1041061/000104106123000009/0001041061-23-000009.txt
+1300514,LVS,LAS VEGAS SANDS CORP,Las Vegas Sands,2019-10-03,Consumer Discretionary,Casinos & Gaming,https://www.sec.gov/Archives/edgar/data/1300514/000130051423000021/0001300514-23-000021.txt
+875045,BIIB,BIOGEN INC.,Biogen,2003-11-13,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/875045/000087504523000009/0000875045-23-000009.txt
+833444,JCI,Johnson Controls International plc,Johnson Controls,2010-08-27,Industrials,Building Products,https://www.sec.gov/Archives/edgar/data/833444/000083344423000048/0000833444-23-000048.txt
+1442145,VRSK,"Verisk Analytics, Inc.",Verisk,2015-10-08,Industrials,Research & Consulting Services,https://www.sec.gov/Archives/edgar/data/1442145/000143774923004945/0001437749-23-004945.txt
+749251,IT,GARTNER INC,Gartner,2017-04-05,Information Technology,IT Consulting & Other Services,https://www.sec.gov/Archives/edgar/data/749251/000074925123000006/0000749251-23-000006.txt
+1057352,CSGP,"COSTAR GROUP, INC.",CoStar Group,2022-09-19,Real Estate,Real Estate Services,https://www.sec.gov/Archives/edgar/data/1057352/000105735223000030/0001057352-23-000030.txt
+1136893,FIS,"Fidelity National Information Services, Inc.",Fidelity National Information Services,2006-11-10,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/1136893/000113689323000028/0001136893-23-000028.txt
+79879,PPG,PPG INDUSTRIES INC,PPG Industries,1957-03-04,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/79879/000007987923000007/0000079879-23-000007.txt
+1024478,ROK,"ROCKWELL AUTOMATION, INC",Rockwell Automation,2000-03-12,Industrials,Electrical Components & Equipment,https://www.sec.gov/Archives/edgar/data/1024478/000102447823000126/0001024478-23-000126.txt
+26172,CMI,CUMMINS INC,Cummins,1965-03-31,Industrials,Construction Machinery & Heavy Transportation Equipment,https://www.sec.gov/Archives/edgar/data/26172/000002617223000005/0000026172-23-000005.txt
+72903,XEL,XCEL ENERGY INC,Xcel Energy,1957-03-04,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/72903/000007290323000007/0000072903-23-000007.txt
+1123360,GPN,GLOBAL PAYMENTS INC,Global Payments,2016-04-25,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/1123360/000112336023000009/0001123360-23-000009.txt
+1932393,GEHC,GE HealthCare Technologies Inc.,GE HealthCare,2023-01-04,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1932393/000193239323000025/0001932393-23-000025.txt
+1701605,BKR,Baker Hughes Co,Baker Hughes,2017-07-07,Energy,Oil & Gas Equipment & Services,https://www.sec.gov/Archives/edgar/data/1701605/000170160523000044/0001701605-23-000044.txt
+1682852,MRNA,"Moderna, Inc.",Moderna,2021-07-21,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/1682852/000168285223000011/0001682852-23-000011.txt
+56873,KR,KROGER CO,Kroger,1957-03-04,Consumer Staples,Food Retail,https://www.sec.gov/Archives/edgar/data/56873/000155837023004767/0001558370-23-004767.txt
+1755672,CTVA,"Corteva, Inc.",Corteva,2019-06-03,Materials,Fertilizers & Agricultural Chemicals,https://www.sec.gov/Archives/edgar/data/1755672/000175567223000005/0001755672-23-000005.txt
+1705696,VICI,VICI PROPERTIES INC.,Vici Properties,2022-06-08,Real Estate,Hotel & Resort REITs,https://www.sec.gov/Archives/edgar/data/1705696/000170569623000035/0001705696-23-000035.txt
+1289490,EXR,Extra Space Storage Inc.,Extra Space Storage,2016-01-19,Real Estate,Self-Storage REITs,https://www.sec.gov/Archives/edgar/data/1289490/000162828023005628/0001628280-23-005628.txt
+1047862,ED,CONSOLIDATED EDISON INC,Consolidated Edison,1957-03-04,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/1047862/000104786223000038/0001047862-23-000038.txt
+1120193,NDAQ,"NASDAQ, INC.","Nasdaq, Inc.",2008-10-22,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1120193/000112019323000014/0001120193-23-000014.txt
+45012,HAL,HALLIBURTON CO,Halliburton,1957-03-04,Energy,Oil & Gas Equipment & Services,https://www.sec.gov/Archives/edgar/data/45012/000004501223000011/0000045012-23-000011.txt
+884887,RCL,ROYAL CARIBBEAN CRUISES LTD,Royal Caribbean Group,2014-12-05,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/884887/000088488723000006/0000884887-23-000006.txt
+1666700,DD,"DuPont de Nemours, Inc.",DuPont,2019-04-02,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/1666700/000166670023000008/0001666700-23-000008.txt
+788784,PEG,PUBLIC SERVICE ENTERPRISE GROUP INC,Public Service Enterprise Group,1957-03-04,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/788784/000162828023004411/0001628280-23-004411.txt
+1050915,PWR,"QUANTA SERVICES, INC.",Quanta Services,2009-07-01,Industrials,Construction & Engineering,https://www.sec.gov/Archives/edgar/data/1050915/000105091523000010/0001050915-23-000010.txt
+1489393,LYB,LyondellBasell Industries N.V.,LyondellBasell,2012-09-05,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/1489393/000148939323000006/0001489393-23-000006.txt
+916076,MLM,MARTIN MARIETTA MATERIALS INC,Martin Marietta Materials,2014-07-02,Materials,Construction Materials,https://www.sec.gov/Archives/edgar/data/916076/000095017023004361/0000950170-23-004361.txt
+1280452,MPWR,MONOLITHIC POWER SYSTEMS INC,Monolithic Power Systems,2021-02-12,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/1280452/000143774923004540/0001437749-23-004540.txt
+1699150,IR,Ingersoll Rand Inc.,Ingersoll Rand,2020-03-03,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/1699150/000162828023004287/0001628280-23-004287.txt
+47217,HPQ,HP INC,HP Inc.,1974-12-31,Information Technology,"Technology Hardware, Storage & Peripherals",https://www.sec.gov/Archives/edgar/data/47217/000004721723000100/0000047217-23-000100.txt
+33185,EFX,EQUIFAX INC,Equifax,1997-06-19,Industrials,Research & Consulting Services,https://www.sec.gov/Archives/edgar/data/33185/000003318523000012/0000033185-23-000012.txt
+1437107,WBD,"Warner Bros. Discovery, Inc.",Warner Bros. Discovery,2022-04-11,Communication Services,Broadcasting,https://www.sec.gov/Archives/edgar/data/1437107/000143710723000019/0001437107-23-000019.txt
+1396009,VMC,Vulcan Materials CO,Vulcan Materials Company,1999-06-30,Materials,Construction Materials,https://www.sec.gov/Archives/edgar/data/1396009/000139600923000007/0001396009-23-000007.txt
+1402057,CDW,CDW Corp,CDW,2019-09-23,Information Technology,Technology Distributors,https://www.sec.gov/Archives/edgar/data/1402057/000140205723000052/0001402057-23-000052.txt
+814547,FICO,FAIR ISAAC CORP,Fair Isaac,2023-03-20,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/0000814547-23-000022.txt
+935703,DLTR,"DOLLAR TREE, INC.",Dollar Tree,2011-12-19,Consumer Staples,Consumer Staples Merchandise Retail,https://www.sec.gov/Archives/edgar/data/935703/000093570323000016/0000935703-23-000016.txt
+947484,ACGL,ARCH CAPITAL GROUP LTD.,Arch Capital Group,2022-11-01,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/947484/000094748423000015/0000947484-23-000015.txt
+1090012,DVN,DEVON ENERGY CORP/DE,Devon Energy,2000-08-30,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/0000950170-23-002852.txt
+29534,DG,DOLLAR GENERAL CORP,Dollar General,2012-12-03,Consumer Staples,Consumer Staples Merchandise Retail,https://www.sec.gov/Archives/edgar/data/29534/000155837023004574/0001558370-23-004574.txt
+1601046,KEYS,"Keysight Technologies, Inc.",Keysight,2018-11-06,Information Technology,Electronic Equipment & Instruments,https://www.sec.gov/Archives/edgar/data/1601046/000160104623000134/0001601046-23-000134.txt
+1138118,CBRE,"CBRE GROUP, INC.",CBRE Group,2006-11-10,Real Estate,Real Estate Services,https://www.sec.gov/Archives/edgar/data/1138118/000113811823000009/0001138118-23-000009.txt
+1539838,FANG,"Diamondback Energy, Inc.",Diamondback Energy,2018-12-03,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/1539838/000153983823000022/0001539838-23-000022.txt
+946581,TTWO,TAKE TWO INTERACTIVE SOFTWARE INC,Take-Two Interactive,2018-03-19,Communication Services,Interactive Home Entertainment,https://www.sec.gov/Archives/edgar/data/946581/000162828023019851/0001628280-23-019851.txt
+27904,DAL,"DELTA AIR LINES, INC.",Delta Air Lines,2013-09-11,Industrials,Passenger Airlines,https://www.sec.gov/Archives/edgar/data/27904/000002790423000003/0000027904-23-000003.txt
+827052,EIX,EDISON INTERNATIONAL,Edison International,1957-03-04,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/827052/000082705223000010/0000827052-23-000010.txt
+1034054,SBAC,SBA COMMUNICATIONS CORP,SBA Communications,2017-09-01,Real Estate,Telecom Tower REITs,https://www.sec.gov/Archives/edgar/data/1034054/000103405423000002/0001034054-23-000002.txt
+783325,WEC,"WEC ENERGY GROUP, INC.",WEC Energy Group,2008-10-31,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/783325/000010781523000100/0000107815-23-000100.txt
+105770,WST,WEST PHARMACEUTICAL SERVICES INC,West Pharmaceutical Services,2020-05-22,Health Care,Health Care Supplies,https://www.sec.gov/Archives/edgar/data/105770/000010577023000012/0000105770-23-000012.txt
+1393612,DFS,Discover Financial Services,Discover Financial,2007-07-02,Financials,Consumer Finance,https://www.sec.gov/Archives/edgar/data/1393612/000139361223000007/0001393612-23-000007.txt
+1524472,XYL,Xylem Inc.,Xylem Inc.,2011-11-01,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/1524472/000152447223000009/0001524472-23-000009.txt
+915912,AVB,AVALONBAY COMMUNITIES INC,AvalonBay Communities,2007-01-10,Real Estate,Multi-Family Residential REITs,https://www.sec.gov/Archives/edgar/data/915912/000091591223000004/0000915912-23-000004.txt
+1037646,MTD,METTLER TOLEDO INTERNATIONAL INC/,Mettler Toledo,2016-09-06,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/1037646/000103764623000005/0001037646-23-000005.txt
+24741,GLW,CORNING INC /NY,Corning Inc.,1995-02-27,Information Technology,Electronic Components,https://www.sec.gov/Archives/edgar/data/24741/000143774923003123/0001437749-23-003123.txt
+721371,CAH,CARDINAL HEALTH INC,Cardinal Health,1997-05-27,Health Care,Health Care Distributors,https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/0000721371-23-000060.txt
+1013462,ANSS,ANSYS INC,Ansys,2017-06-19,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/1013462/000101346223000013/0001013462-23-000013.txt
+1410636,AWK,"American Water Works Company, Inc.",American Water Works,2016-03-04,Utilities,Water Utilities,https://www.sec.gov/Archives/edgar/data/1410636/000141063623000020/0001410636-23-000020.txt
+1659166,FTV,Fortive Corp,Fortive,2016-07-01,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/1659166/000165916623000080/0001659166-23-000080.txt
+1140536,WTW,WILLIS TOWERS WATSON PLC,Willis Towers Watson,2016-01-05,Financials,Insurance Brokers,https://www.sec.gov/Archives/edgar/data/1140536/000095017023004303/0000950170-23-004303.txt
+943819,RMD,RESMED INC,ResMed,2017-07-26,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/943819/000094381923000011/0000943819-23-000011.txt
+1136869,ZBH,"ZIMMER BIOMET HOLDINGS, INC.",Zimmer Biomet,2001-08-07,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1136869/000095017023004264/0000950170-23-004264.txt
+1521332,APTV,Aptiv PLC,Aptiv,2012-12-24,Consumer Discretionary,Automotive Parts & Equipment,https://www.sec.gov/Archives/edgar/data/1521332/000152133223000013/0001521332-23-000013.txt
+1121788,GRMN,GARMIN LTD,Garmin,2012-12-12,Consumer Discretionary,Consumer Electronics,https://www.sec.gov/Archives/edgar/data/1121788/000095017023003566/0000950170-23-003566.txt
+106535,WY,WEYERHAEUSER CO,Weyerhaeuser,1979-10-01,Real Estate,Timber REITs,https://www.sec.gov/Archives/edgar/data/106535/000095017023003217/0000950170-23-003217.txt
+874766,HIG,"HARTFORD FINANCIAL SERVICES GROUP, INC.",Hartford (The),1957-03-04,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/874766/000087476623000023/0000874766-23-000023.txt
+1403568,ULTA,"Ulta Beauty, Inc.",Ulta Beauty,2016-04-18,Consumer Discretionary,Specialty Stores,https://www.sec.gov/Archives/edgar/data/1403568/000155837023004581/0001558370-23-004581.txt
+93751,STT,STATE STREET CORP,State Street Corporation,2003-03-14,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/93751/000009375123000489/0000093751-23-000489.txt
+35527,FITB,FIFTH THIRD BANCORP,Fifth Third Bank,1996-03-29,Financials,Diversified Banks,https://www.sec.gov/Archives/edgar/data/35527/000003552723000122/0000035527-23-000122.txt
+815097,CCL,CARNIVAL CORP,Carnival,1998-12-22,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/815097/000081509723000012/0000815097-23-000012.txt
+1113169,TROW,PRICE T ROWE GROUP INC,T. Rowe Price,2019-07-29,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/1113169/000111316923000007/0001113169-23-000007.txt
+36270,MTB,M&T BANK CORP,M&T Bank,2004-02-23,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/36270/000095017023003804/0000950170-23-003804.txt
+916365,TSCO,TRACTOR SUPPLY CO /DE/,Tractor Supply,2014-01-24,Consumer Discretionary,Specialty Stores,https://www.sec.gov/Archives/edgar/data/916365/000091636523000045/0000916365-23-000045.txt
+313927,CHD,CHURCH & DWIGHT CO INC /DE/,Church & Dwight,2015-12-29,Consumer Staples,Household Products,https://www.sec.gov/Archives/edgar/data/313927/000095017023003066/0000950170-23-003066.txt
+906107,EQR,EQUITY RESIDENTIAL,Equity Residential,2001-12-03,Real Estate,Multi-Family Residential REITs,https://www.sec.gov/Archives/edgar/data/906107/000095017023003060/0000950170-23-003060.txt
+720005,RJF,RAYMOND JAMES FINANCIAL INC,Raymond James,2017-03-20,Financials,Investment Banking & Brokerage,https://www.sec.gov/Archives/edgar/data/720005/000072000523000079/0000720005-23-000079.txt
+936340,DTE,DTE ENERGY CO,DTE Energy,1957-03-04,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/936340/000093634023000073/0000936340-23-000073.txt
+1383312,BR,"BROADRIDGE FINANCIAL SOLUTIONS, INC.",Broadridge Financial Solutions,2018-06-18,Industrials,Data Processing & Outsourced Services,https://www.sec.gov/Archives/edgar/data/1383312/000138331223000037/0001383312-23-000037.txt
+1035443,ARE,"ALEXANDRIA REAL ESTATE EQUITIES, INC.",Alexandria Real Estate Equities,2017-03-20,Real Estate,Office REITs,https://www.sec.gov/Archives/edgar/data/1035443/000103544323000099/0001035443-23-000099.txt
+4281,HWM,Howmet Aerospace Inc.,Howmet Aerospace,1957-03-04,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/4281/000000428123000004/0000004281-23-000004.txt
+822416,PHM,PULTEGROUP INC/MI/,PulteGroup,1984-04-30,Consumer Discretionary,Homebuilding,https://www.sec.gov/Archives/edgar/data/822416/000082241623000007/0000822416-23-000007.txt
+1014473,VRSN,VERISIGN INC/CA,Verisign,2006-02-01,Information Technology,Internet Services & Infrastructure,https://www.sec.gov/Archives/edgar/data/1014473/000101447323000005/0001014473-23-000005.txt
+906163,NVR,NVR INC,"NVR, Inc.",2019-09-26,Consumer Discretionary,Homebuilding,https://www.sec.gov/Archives/edgar/data/906163/000090616323000023/0000906163-23-000023.txt
+65984,ETR,ENTERGY CORP /DE/,Entergy,1957-03-04,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/65984/000006598423000014/0000065984-23-000014.txt
+1618921,WBA,"Walgreens Boots Alliance, Inc.",Walgreens Boots Alliance,1979-12-31,Consumer Staples,Drug Retail,https://www.sec.gov/Archives/edgar/data/1618921/000161892123000062/0001618921-23-000062.txt
+1065088,EBAY,EBAY INC,eBay,2002-07-22,Consumer Discretionary,Broadline Retail,https://www.sec.gov/Archives/edgar/data/1065088/000106508823000006/0001065088-23-000006.txt
+943452,WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,Wabtec,2019-02-27,Industrials,Construction Machinery & Heavy Transportation Equipment,https://www.sec.gov/Archives/edgar/data/943452/000162828023003675/0001628280-23-003675.txt
+1031296,FE,FIRSTENERGY CORP,FirstEnergy,1997-11-28,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/1031296/000103129623000014/0001031296-23-000014.txt
+1179929,MOH,"MOLINA HEALTHCARE, INC.",Molina Healthcare,2022-03-02,Health Care,Managed Health Care,https://www.sec.gov/Archives/edgar/data/1179929/000117992923000025/0001179929-23-000025.txt
+72741,ES,EVERSOURCE ENERGY,Eversource,2009-07-24,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/72741/000007274123000004/0000072741-23-000004.txt
+1645590,HPE,Hewlett Packard Enterprise Co,Hewlett Packard Enterprise,2015-11-02,Information Technology,"Technology Hardware, Storage & Peripherals",https://www.sec.gov/Archives/edgar/data/1645590/000164559023000117/0001645590-23-000117.txt
+1335258,LYV,"Live Nation Entertainment, Inc.",Live Nation Entertainment,2019-12-23,Communication Services,Movies & Entertainment,https://www.sec.gov/Archives/edgar/data/1335258/000133525823000014/0001335258-23-000014.txt
+29905,DOV,DOVER Corp,Dover Corporation,1985-10-31,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/29905/000002990523000008/0000029905-23-000008.txt
+728535,JBHT,HUNT J B TRANSPORT SERVICES INC,J.B. Hunt,2015-07-01,Industrials,Cargo Ground Transportation,https://www.sec.gov/Archives/edgar/data/728535/000143774923004530/0001437749-23-004530.txt
+1757898,STE,STERIS plc,Steris,2019-12-23,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1757898/000175789823000005/0001757898-23-000005.txt
+79282,BRO,"BROWN & BROWN, INC.",Brown & Brown,2021-09-20,Financials,Insurance Brokers,https://www.sec.gov/Archives/edgar/data/79282/000095017023004717/0000950170-23-004717.txt
+1687229,INVH,Invitation Homes Inc.,Invitation Homes,2022-09-19,Real Estate,Single-Family Residential REITs,https://www.sec.gov/Archives/edgar/data/1687229/000168722923000029/0001687229-23-000029.txt
+84839,ROL,ROLLINS INC,"Rollins, Inc.",2018-10-01,Industrials,Environmental & Facilities Services,https://www.sec.gov/Archives/edgar/data/84839/000008483923000006/0000084839-23-000006.txt
+1002910,AEE,AMEREN CORP,Ameren,1991-09-19,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/1002910/000100291023000053/0001002910-23-000053.txt
+1316835,BLDR,"Builders FirstSource, Inc.",Builders FirstSource,2023-12-18,Industrials,Building Products,https://www.sec.gov/Archives/edgar/data/1316835/000095017023004939/0000950170-23-004939.txt
+857005,PTC,PTC INC.,PTC,2021-04-20,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/857005/000095012323011049/0000950123-23-011049.txt
+51253,IFF,INTERNATIONAL FLAVORS & FRAGRANCES INC,International Flavors & Fragrances,1976-03-31,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/51253/000005125323000009/0000051253-23-000009.txt
+1110803,ILMN,"ILLUMINA, INC.",Illumina,2015-11-19,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/1110803/000111080323000023/0001110803-23-000023.txt
+1094285,TDY,TELEDYNE TECHNOLOGIES INC,Teledyne Technologies,2020-06-22,Information Technology,Electronic Equipment & Instruments,https://www.sec.gov/Archives/edgar/data/1094285/000109428523000053/0001094285-23-000053.txt
+1022671,STLD,STEEL DYNAMICS INC,Steel Dynamics,2022-12-22,Materials,Steel,https://www.sec.gov/Archives/edgar/data/1022671/000155837023002303/0001558370-23-002303.txt
+1324424,EXPE,"Expedia Group, Inc.",Expedia Group,2007-10-02,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/1324424/000132442423000007/0001324424-23-000007.txt
+922224,PPL,PPL Corp,PPL Corporation,2001-10-01,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/0000922224-23-000010.txt
+1175454,FLT,FLEETCOR TECHNOLOGIES INC,Fleetcor,2018-06-20,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/1175454/000162828023005444/0001628280-23-005444.txt
+740260,VTR,"Ventas, Inc.",Ventas,2009-03-04,Real Estate,Health Care REITs,https://www.sec.gov/Archives/edgar/data/740260/000074026023000070/0000740260-23-000070.txt
+1020569,IRM,IRON MOUNTAIN INC,Iron Mountain,2009-01-06,Real Estate,Other Specialized REITs,https://www.sec.gov/Archives/edgar/data/1020569/000102056923000043/0001020569-23-000043.txt
+1967680,VLTO,Veralto Corp,Veralto,2023-10-02,Industrials,Environmental & Facilities Services,
+10456,BAX,BAXTER INTERNATIONAL INC,Baxter International,1972-09-30,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/10456/000162828023002864/0001628280-23-002864.txt
+1097149,ALGN,ALIGN TECHNOLOGY INC,Align Technology,2017-06-19,Health Care,Health Care Supplies,https://www.sec.gov/Archives/edgar/data/1097149/000109714923000013/0001097149-23-000013.txt
+940944,DRI,DARDEN RESTAURANTS INC,Darden Restaurants,1995-05-31,Consumer Discretionary,Restaurants,https://www.sec.gov/Archives/edgar/data/940944/000094094423000037/0000940944-23-000037.txt
+40987,GPC,GENUINE PARTS CO,Genuine Parts Company,1973-12-31,Consumer Discretionary,Distributors,https://www.sec.gov/Archives/edgar/data/40987/000004098723000008/0000040987-23-000008.txt
+1069183,AXON,"AXON ENTERPRISE, INC.",Axon Enterprise,2023-05-04,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/1069183/000155837023002413/0001558370-23-002413.txt
+1374310,CBOE,"Cboe Global Markets, Inc.",Cboe Global Markets,2017-03-01,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1374310/000155837023001489/0001558370-23-001489.txt
+1389170,TRGP,Targa Resources Corp.,Targa Resources,2022-10-12,Energy,Oil & Gas Storage & Transportation,https://www.sec.gov/Archives/edgar/data/1389170/000095017023003797/0000950170-23-003797.txt
+858470,CTRA,Coterra Energy Inc.,Coterra,2008-06-23,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/858470/000085847023000011/0000858470-23-000011.txt
+1000697,WAT,WATERS CORP /DE/,Waters Corporation,2002-01-02,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/1000697/000119312523050827/0001193125-23-050827.txt
+1126328,PFG,PRINCIPAL FINANCIAL GROUP INC,Principal Financial Group,2002-07-22,Financials,Life & Health Insurance,https://www.sec.gov/Archives/edgar/data/1126328/000110465923022860/0001104659-23-022860.txt
+920148,LH,LABORATORY CORP OF AMERICA HOLDINGS,LabCorp,2004-11-01,Health Care,Health Care Services,https://www.sec.gov/Archives/edgar/data/920148/000092014823000017/0000920148-23-000017.txt
+49196,HBAN,HUNTINGTON BANCSHARES INC /MD/,Huntington Bancshares,1997-08-28,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/49196/000004919623000020/0000049196-23-000020.txt
+55067,K,KELLANOVA,Kellanova,1989-09-11,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/55067/000162828023004299/0001628280-23-004299.txt
+1130310,CNP,CENTERPOINT ENERGY INC,CenterPoint Energy,1985-07-31,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/1130310/000113031023000013/0001130310-23-000013.txt
+9389,BALL,BALL Corp,Ball Corporation,1984-10-31,Materials,"Metal, Glass & Plastic Containers",https://www.sec.gov/Archives/edgar/data/9389/000000938923000011/0000009389-23-000011.txt
+11544,WRB,BERKLEY W R CORP,Berkley,2019-12-05,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/11544/000001154423000004/0000011544-23-000004.txt
+63754,MKC,MCCORMICK & CO INC,McCormick & Company,2003-03-20,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/63754/000006375423000005/0000063754-23-000005.txt
+100493,TSN,"TYSON FOODS, INC.",Tyson Foods,2005-08-10,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/100493/000010049323000105/0000100493-23-000105.txt
+1002047,NTAP,"NetApp, Inc.",NetApp,1999-06-25,Information Technology,"Technology Hardware, Storage & Peripherals",https://www.sec.gov/Archives/edgar/data/1002047/000095017023027948/0000950170-23-027948.txt
+746515,EXPD,EXPEDITORS INTERNATIONAL OF WASHINGTON INC,Expeditors International,2007-10-10,Industrials,Air Freight & Logistics,https://www.sec.gov/Archives/edgar/data/746515/000095017023005412/0000950170-23-005412.txt
+1281761,RF,REGIONS FINANCIAL CORP,Regions Financial Corporation,1998-08-28,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/1281761/000128176123000012/0001281761-23-000012.txt
+21076,CLX,CLOROX CO /DE/,Clorox,1969-03-31,Consumer Staples,Household Products,https://www.sec.gov/Archives/edgar/data/21076/000002107623000037/0000021076-23-000037.txt
+4127,SWKS,"SKYWORKS SOLUTIONS, INC.",Skyworks Solutions,2015-03-12,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/4127/000000412723000030/0000004127-23-000030.txt
+711404,COO,"COOPER COMPANIES, INC.",CooperCompanies,2016-09-23,Health Care,Health Care Supplies,https://www.sec.gov/Archives/edgar/data/711404/000071140423000072/0000711404-23-000072.txt
+1086222,AKAM,AKAMAI TECHNOLOGIES INC,Akamai,2007-07-12,Information Technology,Internet Services & Infrastructure,https://www.sec.gov/Archives/edgar/data/1086222/000108622223000078/0001086222-23-000078.txt
+1274494,FSLR,"FIRST SOLAR, INC.",First Solar,2022-12-19,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/1274494/000127449423000002/0001274494-23-000002.txt
+1137789,STX,Seagate Technology Holdings plc,Seagate Technology,2012-07-02,Information Technology,"Technology Hardware, Storage & Peripherals",https://www.sec.gov/Archives/edgar/data/1137789/000113778923000049/0001137789-23-000049.txt
+73124,NTRS,NORTHERN TRUST CORP,Northern Trust,1998-01-30,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/73124/000007312423000049/0000073124-23-000049.txt
+915913,ALB,ALBEMARLE CORP,Albemarle Corporation,2016-07-01,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/915913/000091591323000039/0000915913-23-000039.txt
+48465,HRL,HORMEL FOODS CORP /DE/,Hormel Foods,2009-03-04,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/48465/000004846523000083/0000048465-23-000083.txt
+92380,LUV,SOUTHWEST AIRLINES CO,Southwest Airlines,1994-07-01,Industrials,Passenger Airlines,https://www.sec.gov/Archives/edgar/data/92380/000009238023000010/0000092380-23-000010.txt
+1013237,FDS,FACTSET RESEARCH SYSTEMS INC,FactSet,2021-12-20,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1013237/000101323723000128/0001013237-23-000128.txt
+48898,HUBB,HUBBELL INC,Hubbell Incorporated,2023-10-18,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/48898/000162828023002875/0001628280-23-002875.txt
+898293,JBL,JABIL INC,Jabil,2023-12-18,Information Technology,Electronic Manufacturing Services,https://www.sec.gov/Archives/edgar/data/898293/000119312523259599/0001193125-23-259599.txt
+29989,OMC,OMNICOM GROUP INC.,Omnicom Group,1997-12-31,Communication Services,Advertising,https://www.sec.gov/Archives/edgar/data/29989/000002998923000005/0000029989-23-000005.txt
+731802,ATO,ATMOS ENERGY CORP,Atmos Energy,2019-02-15,Utilities,Gas Utilities,https://www.sec.gov/Archives/edgar/data/731802/000073180223000028/0000731802-23-000028.txt
+860731,TYL,TYLER TECHNOLOGIES INC,Tyler Technologies,2020-06-22,Information Technology,Application Software,https://www.sec.gov/Archives/edgar/data/860731/000086073123000009/0000860731-23-000009.txt
+811156,CMS,CMS ENERGY CORP,CMS Energy,1957-03-04,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/811156/000081115623000014/0000811156-23-000014.txt
+1463101,ENPH,"Enphase Energy, Inc.",Enphase,2021-01-07,Information Technology,Semiconductor Materials & Equipment,https://www.sec.gov/Archives/edgar/data/1463101/000146310123000025/0001463101-23-000025.txt
+859737,HOLX,HOLOGIC INC,Hologic,2016-03-30,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/859737/000085973723000023/0000859737-23-000023.txt
+1352010,EPAM,"EPAM Systems, Inc.",EPAM Systems,2021-12-14,Information Technology,IT Consulting & Other Services,https://www.sec.gov/Archives/edgar/data/1352010/000135201023000013/0001352010-23-000013.txt
+764478,BBY,BEST BUY CO INC,Best Buy,1999-06-29,Consumer Discretionary,Computer & Electronics Retail,https://www.sec.gov/Archives/edgar/data/764478/000076447823000006/0000764478-23-000006.txt
+1095073,EG,"EVEREST GROUP, LTD.",Everest Re,2017-06-19,Financials,Reinsurance,https://www.sec.gov/Archives/edgar/data/1095073/000109507323000007/0001095073-23-000007.txt
+106040,WDC,WESTERN DIGITAL CORP,Western Digital,2009-07-01,Information Technology,"Technology Hardware, Storage & Peripherals",https://www.sec.gov/Archives/edgar/data/106040/000010604023000024/0000106040-23-000024.txt
+1306830,CE,Celanese Corp,Celanese,2018-12-24,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/1306830/000130683023000023/0001306830-23-000023.txt
+20286,CINF,CINCINNATI FINANCIAL CORP,Cincinnati Financial,1997-12-18,Financials,Property & Casualty Insurance,https://www.sec.gov/Archives/edgar/data/20286/000002028623000008/0000020286-23-000008.txt
+97210,TER,"TERADYNE, INC",Teradyne,2020-09-21,Information Technology,Semiconductor Materials & Equipment,https://www.sec.gov/Archives/edgar/data/97210/000119312523044711/0001193125-23-044711.txt
+832101,IEX,IDEX CORP /DE/,IDEX Corporation,2019-08-09,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/832101/000083210123000013/0000832101-23-000013.txt
+52988,J,JACOBS SOLUTIONS INC.,Jacobs Solutions,2007-10-26,Industrials,Construction & Engineering,https://www.sec.gov/Archives/edgar/data/52988/000005298823000084/0000052988-23-000084.txt
+8818,AVY,Avery Dennison Corp,Avery Dennison,1987-12-31,Materials,Paper & Plastic Packaging Products & Materials,https://www.sec.gov/Archives/edgar/data/8818/000000881823000002/0000008818-23-000002.txt
+33213,EQT,EQT Corp,EQT,2022-10-03,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/33213/000003321323000008/0000033213-23-000008.txt
+759944,CFG,CITIZENS FINANCIAL GROUP INC/RI,Citizens Financial Group,2016-01-29,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/759944/000075994423000029/0000759944-23-000029.txt
+1022079,DGX,QUEST DIAGNOSTICS INC,Quest Diagnostics,2002-12-12,Health Care,Health Care Services,https://www.sec.gov/Archives/edgar/data/1022079/000102207923000018/0001022079-23-000018.txt
+920522,ESS,"ESSEX PROPERTY TRUST, INC.",Essex Property Trust,2014-04-02,Real Estate,Multi-Family Residential REITs,https://www.sec.gov/Archives/edgar/data/920522/000092052223000005/0000920522-23-000005.txt
+217346,TXT,TEXTRON INC,Textron,1978-12-31,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/217346/000021734623000006/0000217346-23-000006.txt
+60086,L,LOEWS CORP,Loews Corporation,1995-05-31,Financials,Multi-line Insurance,https://www.sec.gov/Archives/edgar/data/60086/000006008623000025/0000060086-23-000025.txt
+62996,MAS,MASCO CORP /DE/,Masco,1981-06-30,Industrials,Building Products,https://www.sec.gov/Archives/edgar/data/62996/000006299623000008/0000062996-23-000008.txt
+1601712,SYF,Synchrony Financial,Synchrony Financial,2015-11-18,Financials,Consumer Finance,https://www.sec.gov/Archives/edgar/data/1601712/000160171223000037/0001601712-23-000037.txt
+1679273,LW,"Lamb Weston Holdings, Inc.",Lamb Weston,2018-12-03,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/1679273/000155837023012203/0001558370-23-012203.txt
+945841,POOL,POOL CORP,Pool Corporation,2020-10-07,Consumer Discretionary,Distributors,https://www.sec.gov/Archives/edgar/data/945841/000094584123000015/0000945841-23-000015.txt
+93556,SWK,"STANLEY BLACK & DECKER, INC.",Stanley Black & Decker,1982-09-30,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/93556/000009355623000007/0000093556-23-000007.txt
+1996862,BG,Bunge Global SA,Bunge Global SA,2023-03-15,Consumer Staples,Agricultural Products & Services,
+91440,SNA,Snap-on Inc,Snap-on,1982-09-30,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/91440/000009144023000005/0000091440-23-000005.txt
+1336920,LDOS,"Leidos Holdings, Inc.",Leidos,2019-08-09,Industrials,Diversified Support Services,https://www.sec.gov/Archives/edgar/data/1336920/000133692023000015/0001336920-23-000015.txt
+789570,MGM,MGM Resorts International,MGM Resorts,2017-07-26,Consumer Discretionary,Casinos & Gaming,https://www.sec.gov/Archives/edgar/data/789570/000078957023000008/0000789570-23-000008.txt
+849399,GEN,Gen Digital Inc.,Gen Digital,2003-03-25,Information Technology,Systems Software,https://www.sec.gov/Archives/edgar/data/849399/000084939923000014/0000849399-23-000014.txt
+75677,PKG,PACKAGING CORP OF AMERICA,Packaging Corporation of America,2017-07-26,Materials,Paper & Plastic Packaging Products & Materials,https://www.sec.gov/Archives/edgar/data/75677/000095017023003990/0000950170-23-003990.txt
+1324404,CF,"CF Industries Holdings, Inc.",CF Industries,2008-08-27,Materials,Fertilizers & Agricultural Chemicals,https://www.sec.gov/Archives/edgar/data/1324404/000132440423000006/0001324404-23-000006.txt
+38777,BEN,FRANKLIN RESOURCES INC,Franklin Templeton,1998-04-30,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/38777/000003877723000169/0000038777-23-000169.txt
+1145197,PODD,INSULET CORP,Insulet,2023-03-15,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/1145197/000114519723000020/0001145197-23-000020.txt
+23217,CAG,CONAGRA BRANDS INC.,Conagra Brands,1983-08-31,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/23217/000143774923019879/0001437749-23-019879.txt
+72331,NDSN,NORDSON CORP,Nordson Corporation,2022-02-15,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/0000072331-23-000242.txt
+100517,UAL,"United Airlines Holdings, Inc.",United Airlines Holdings,2015-09-03,Industrials,Passenger Airlines,https://www.sec.gov/Archives/edgar/data/100517/000010051723000048/0000100517-23-000048.txt
+101778,MRO,MARATHON OIL CORP,Marathon Oil,1957-03-04,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/101778/000010177823000030/0000101778-23-000030.txt
+879169,INCY,INCYTE CORP,Incyte,2017-02-28,Health Care,Biotechnology,https://www.sec.gov/Archives/edgar/data/879169/000087916923000008/0000879169-23-000008.txt
+877212,ZBRA,ZEBRA TECHNOLOGIES CORP,Zebra Technologies,2019-12-23,Information Technology,Electronic Equipment & Instruments,https://www.sec.gov/Archives/edgar/data/877212/000087721223000025/0000877212-23-000025.txt
+1748790,AMCR,Amcor plc,Amcor,2019-06-07,Materials,Paper & Plastic Packaging Products & Materials,https://www.sec.gov/Archives/edgar/data/1748790/000174879023000030/0001748790-23-000030.txt
+1286681,DPZ,DOMINOS PIZZA INC,Domino's,2020-05-12,Consumer Discretionary,Restaurants,https://www.sec.gov/Archives/edgar/data/1286681/000095017023003938/0000950170-23-003938.txt
+879101,KIM,KIMCO REALTY CORP,Kimco Realty,2006-04-04,Real Estate,Retail REITs,https://www.sec.gov/Archives/edgar/data/879101/000143774923004541/0001437749-23-004541.txt
+1754301,FOXA,Fox Corp,Fox Corporation (Class A),2013-07-01,Communication Services,Broadcasting,https://www.sec.gov/Archives/edgar/data/1754301/000162828023029065/0001628280-23-029065.txt
+24545,TAP,MOLSON COORS BEVERAGE CO,Molson Coors Beverage Company,1976-06-30,Consumer Staples,Brewers,https://www.sec.gov/Archives/edgar/data/24545/000002454523000006/0000024545-23-000006.txt
+1070750,HST,"HOST HOTELS & RESORTS, INC.",Host Hotels & Resorts,2007-03-20,Real Estate,Hotel & Resort REITs,https://www.sec.gov/Archives/edgar/data/1070750/000095017023003778/0000950170-23-003778.txt
+16732,CPB,CAMPBELL SOUP CO,Campbell Soup Company,1957-03-04,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/16732/000001673223000109/0000016732-23-000109.txt
+91576,KEY,KEYCORP /NEW/,KeyCorp,1994-03-01,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/91576/000009157623000026/0000091576-23-000026.txt
+352541,LNT,ALLIANT ENERGY CORP,Alliant Energy,2016-07-01,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/352541/000035254123000017/0000352541-23-000017.txt
+91419,SJM,J M SMUCKER Co,J.M. Smucker Company (The),2008-11-06,Consumer Staples,Packaged Foods & Meats,https://www.sec.gov/Archives/edgar/data/91419/000009141923000072/0000091419-23-000072.txt
+1564708,NWSA,NEWS CORP,News Corp (Class A),2013-08-01,Communication Services,Publishing,https://www.sec.gov/Archives/edgar/data/1564708/000156470823000368/0001564708-23-000368.txt
+51434,IP,INTERNATIONAL PAPER CO /NEW/,International Paper,1957-03-04,Materials,Paper & Plastic Packaging Products & Materials,https://www.sec.gov/Archives/edgar/data/51434/000005143423000013/0000051434-23-000013.txt
+874761,AES,AES CORP,AES Corporation,1998-10-02,Utilities,Independent Power Producers & Energy Traders,https://www.sec.gov/Archives/edgar/data/874761/000087476123000010/0000874761-23-000010.txt
+74208,UDR,"UDR, Inc.","UDR, Inc.",2016-03-07,Real Estate,Multi-Family Residential REITs,https://www.sec.gov/Archives/edgar/data/74208/000007420823000007/0000074208-23-000007.txt
+864749,TRMB,TRIMBLE INC.,Trimble Inc.,2021-01-21,Information Technology,Electronic Equipment & Instruments,https://www.sec.gov/Archives/edgar/data/864749/000086474923000012/0000864749-23-000012.txt
+51644,IPG,"INTERPUBLIC GROUP OF COMPANIES, INC.",Interpublic Group of Companies (The),1992-10-01,Communication Services,Advertising,https://www.sec.gov/Archives/edgar/data/51644/000005164423000010/0000051644-23-000010.txt
+1065696,LKQ,LKQ CORP,LKQ Corporation,2016-05-23,Consumer Discretionary,Distributors,https://www.sec.gov/Archives/edgar/data/1065696/000106569623000008/0001065696-23-000008.txt
+31791,RVTY,"REVVITY, INC.",Revvity,1985-05-31,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/31791/000003179123000004/0000031791-23-000004.txt
+910606,REG,REGENCY CENTERS CORP,Regency Centers,2017-03-02,Real Estate,Retail REITs,https://www.sec.gov/Archives/edgar/data/910606/000095017023003160/0000950170-23-003160.txt
+1792044,VTRS,Viatris Inc,Viatris,2004-04-23,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/1792044/000179204423000008/0001792044-23-000008.txt
+779152,JKHY,JACK HENRY & ASSOCIATES INC,Jack Henry & Associates,2018-11-13,Financials,Transaction & Payment Processing Services,https://www.sec.gov/Archives/edgar/data/779152/000077915223000062/0000779152-23-000062.txt
+842023,TECH,BIO-TECHNE Corp,Bio-Techne,2021-08-30,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/842023/000155837023015226/0001558370-23-015226.txt
+1711269,EVRG,"Evergy, Inc.",Evergy,2018-06-05,Utilities,Electric Utilities,https://www.sec.gov/Archives/edgar/data/1711269/000171126923000011/0001711269-23-000011.txt
+1285785,MOS,MOSAIC CO,Mosaic Company (The),2011-09-26,Materials,Fertilizers & Agricultural Chemicals,https://www.sec.gov/Archives/edgar/data/1285785/000161803423000003/0001618034-23-000003.txt
+1170010,KMX,CARMAX INC,CarMax,2010-06-28,Consumer Discretionary,Automotive Retail,https://www.sec.gov/Archives/edgar/data/1170010/000117001023000010/0001170010-23-000010.txt
+96943,TFX,TELEFLEX INC,Teleflex,2019-01-18,Health Care,Health Care Equipment,https://www.sec.gov/Archives/edgar/data/96943/000009694323000024/0000096943-23-000024.txt
+1100682,CRL,"CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",Charles River Laboratories,2021-05-14,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/1100682/000110068223000006/0001100682-23-000006.txt
+77360,PNR,PENTAIR plc,Pentair,2012-10-01,Industrials,Industrial Machinery & Supplies & Components,https://www.sec.gov/Archives/edgar/data/77360/000007736023000006/0000077360-23-000006.txt
+91142,AOS,SMITH A O CORP,A. O. Smith,2017-07-26,Industrials,Building Products,https://www.sec.gov/Archives/edgar/data/91142/000009114223000025/0000091142-23-000025.txt
+1590955,PAYC,"Paycom Software, Inc.",Paycom,2020-01-28,Industrials,Human Resource & Employment Services,https://www.sec.gov/Archives/edgar/data/1590955/000095017023003049/0000950170-23-003049.txt
+320335,GL,GLOBE LIFE INC.,Globe Life,1989-04-30,Financials,Life & Health Insurance,https://www.sec.gov/Archives/edgar/data/320335/000032033523000008/0000320335-23-000008.txt
+1037540,BXP,BOSTON PROPERTIES INC,Boston Properties,2006-04-03,Real Estate,Office REITs,https://www.sec.gov/Archives/edgar/data/1037540/000165642323000013/0001656423-23-000013.txt
+1013871,NRG,"NRG ENERGY, INC.",NRG Energy,2010-01-29,Utilities,Independent Power Producers & Energy Traders,https://www.sec.gov/Archives/edgar/data/1013871/000101387123000004/0001013871-23-000004.txt
+1111711,NI,NISOURCE INC.,NiSource,2000-11-02,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/1111711/000111171123000006/0001111711-23-000006.txt
+1604778,QRVO,"Qorvo, Inc.",Qorvo,2015-06-11,Information Technology,Semiconductors,https://www.sec.gov/Archives/edgar/data/1604778/000160477823000055/0001604778-23-000055.txt
+1732845,WRK,WestRock Co,WestRock,1957-03-04,Materials,Paper & Plastic Packaging Products & Materials,https://www.sec.gov/Archives/edgar/data/1732845/000095017023064855/0000950170-23-064855.txt
+1841666,APA,APA Corp,APA Corporation,1997-07-28,Energy,Oil & Gas Exploration & Production,https://www.sec.gov/Archives/edgar/data/1841666/000178403123000007/0001784031-23-000007.txt
+765880,PEAK,"HEALTHPEAK PROPERTIES, INC.",Healthpeak,2008-03-31,Real Estate,Health Care REITs,https://www.sec.gov/Archives/edgar/data/765880/000162828023002794/0001628280-23-002794.txt
+1725057,CDAY,Ceridian HCM Holding Inc.,Ceridian,2021-09-20,Industrials,Human Resource & Employment Services,https://www.sec.gov/Archives/edgar/data/1725057/000095017023005559/0000950170-23-005559.txt
+1048695,FFIV,"F5, INC.","F5, Inc.",2010-12-20,Information Technology,Communications Equipment,https://www.sec.gov/Archives/edgar/data/1048695/000104869523000039/0001048695-23-000039.txt
+906345,CPT,CAMDEN PROPERTY TRUST,Camden Property Trust,2022-04-04,Real Estate,Multi-Family Residential REITs,https://www.sec.gov/Archives/edgar/data/906345/000090634523000008/0000906345-23-000008.txt
+915389,EMN,EASTMAN CHEMICAL CO,Eastman Chemical Company,1994-01-01,Materials,Specialty Chemicals,https://www.sec.gov/Archives/edgar/data/915389/000091538923000015/0000915389-23-000015.txt
+1278021,MKTX,MARKETAXESS HOLDINGS INC,MarketAxess,2019-07-01,Financials,Financial Exchanges & Data,https://www.sec.gov/Archives/edgar/data/1278021/000095017023003824/0000950170-23-003824.txt
+1579241,ALLE,Allegion plc,Allegion,2013-12-02,Industrials,Building Products,https://www.sec.gov/Archives/edgar/data/1579241/000157924123000006/0001579241-23-000006.txt
+1590895,CZR,"Caesars Entertainment, Inc.",Caesars Entertainment,2021-03-22,Consumer Discretionary,Casinos & Gaming,https://www.sec.gov/Archives/edgar/data/1590895/000159089523000070/0001590895-23-000070.txt
+1501585,HII,"HUNTINGTON INGALLS INDUSTRIES, INC.",Huntington Ingalls Industries,2018-01-03,Industrials,Aerospace & Defense,https://www.sec.gov/Archives/edgar/data/1501585/000150158523000010/0001501585-23-000010.txt
+352915,UHS,UNIVERSAL HEALTH SERVICES INC,Universal Health Services,2014-09-20,Health Care,Health Care Facilities,https://www.sec.gov/Archives/edgar/data/352915/000095017023004656/0000950170-23-004656.txt
+813828,PARA,Paramount Global,Paramount Global,1994-09-30,Communication Services,Movies & Entertainment,https://www.sec.gov/Archives/edgar/data/813828/000081382823000005/0000813828-23-000005.txt
+1174922,WYNN,WYNN RESORTS LTD,Wynn Resorts,2008-11-14,Consumer Discretionary,Casinos & Gaming,https://www.sec.gov/Archives/edgar/data/1174922/000117492223000048/0001174922-23-000048.txt
+1043277,CHRW,"C. H. ROBINSON WORLDWIDE, INC.",CH Robinson,2007-03-02,Industrials,Air Freight & Logistics,https://www.sec.gov/Archives/edgar/data/1043277/000104327723000005/0001043277-23-000005.txt
+927066,DVA,DAVITA INC.,DaVita Inc.,2008-07-31,Health Care,Health Care Services,https://www.sec.gov/Archives/edgar/data/927066/000092706623000011/0000927066-23-000011.txt
+1000228,HSIC,HENRY SCHEIN INC,Henry Schein,2015-03-17,Health Care,Health Care Distributors,https://www.sec.gov/Archives/edgar/data/1000228/000100022823000011/0001000228-23-000011.txt
+1370637,ETSY,ETSY INC,Etsy,2020-09-21,Consumer Discretionary,Broadline Retail,https://www.sec.gov/Archives/edgar/data/1370637/000137063723000017/0001370637-23-000017.txt
+6201,AAL,American Airlines Group Inc.,American Airlines Group,2015-03-23,Industrials,Passenger Airlines,https://www.sec.gov/Archives/edgar/data/6201/000000620123000018/0000006201-23-000018.txt
+1043604,JNPR,JUNIPER NETWORKS INC,Juniper Networks,2006-06-02,Information Technology,Communications Equipment,https://www.sec.gov/Archives/edgar/data/1043604/000104360423000016/0001043604-23-000016.txt
+891103,MTCH,"Match Group, Inc.",Match Group,2021-09-20,Communication Services,Interactive Media & Services,https://www.sec.gov/Archives/edgar/data/891103/000089110323000013/0000891103-23-000013.txt
+701985,BBWI,"Bath & Body Works, Inc.","Bath & Body Works, Inc.",1983-09-30,Consumer Discretionary,Other Specialty Retail,https://www.sec.gov/Archives/edgar/data/701985/000070198523000008/0000701985-23-000008.txt
+315213,RHI,ROBERT HALF INC.,Robert Half,2000-12-05,Industrials,Human Resource & Employment Services,https://www.sec.gov/Archives/edgar/data/315213/000031521323000016/0000315213-23-000016.txt
+12208,BIO,"BIO-RAD LABORATORIES, INC.",Bio-Rad,2020-06-22,Health Care,Life Sciences Tools & Services,https://www.sec.gov/Archives/edgar/data/12208/000001220823000031/0000012208-23-000031.txt
+1037038,RL,RALPH LAUREN CORP,Ralph Lauren Corporation,2007-02-02,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",https://www.sec.gov/Archives/edgar/data/1037038/000103703823000015/0001037038-23-000015.txt
+1267238,AIZ,"ASSURANT, INC.",Assurant,2007-04-10,Financials,Multi-line Insurance,https://www.sec.gov/Archives/edgar/data/1267238/000126723823000007/0001267238-23-000007.txt
+1513761,NCLH,Norwegian Cruise Line Holdings Ltd.,Norwegian Cruise Line Holdings,2017-10-13,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",https://www.sec.gov/Archives/edgar/data/1513761/000155837023002361/0001558370-23-002361.txt
+764622,PNW,PINNACLE WEST CAPITAL CORP,Pinnacle West,1999-10-04,Utilities,Multi-Utilities,https://www.sec.gov/Archives/edgar/data/764622/000076462223000023/0000764622-23-000023.txt
+34903,FRT,FEDERAL REALTY INVESTMENT TRUST,Federal Realty,2016-02-01,Real Estate,Retail REITs,https://www.sec.gov/Archives/edgar/data/34903/000003490323000020/0000034903-23-000020.txt
+1116132,TPR,"TAPESTRY, INC.","Tapestry, Inc.",2004-09-01,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",https://www.sec.gov/Archives/edgar/data/1116132/000111613223000020/0001116132-23-000020.txt
+908255,BWA,BORGWARNER INC,BorgWarner,2011-12-19,Consumer Discretionary,Automotive Parts & Equipment,https://www.sec.gov/Archives/edgar/data/908255/000090825523000013/0000908255-23-000013.txt
+914208,IVZ,Invesco Ltd.,Invesco,2008-08-21,Financials,Asset Management & Custody Banks,https://www.sec.gov/Archives/edgar/data/914208/000091420823000297/0000914208-23-000297.txt
+1474735,GNRC,GENERAC HOLDINGS INC.,Generac,2021-03-22,Industrials,Electrical Components & Equipment,https://www.sec.gov/Archives/edgar/data/1474735/000143774923004153/0001437749-23-004153.txt
+103379,VFC,V F CORP,VF Corporation,1979-06-30,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",https://www.sec.gov/Archives/edgar/data/103379/000010337923000006/0000103379-23-000006.txt
+37785,FMC,FMC CORP,FMC Corporation,2009-08-19,Materials,Fertilizers & Agricultural Chemicals,https://www.sec.gov/Archives/edgar/data/37785/000003778523000019/0000037785-23-000019.txt
+1596783,CTLT,"Catalent, Inc.",Catalent,2020-09-21,Health Care,Pharmaceuticals,https://www.sec.gov/Archives/edgar/data/1596783/000159678323000185/0001596783-23-000185.txt
+28412,CMA,COMERICA INC /NEW/,Comerica,1995-12-01,Financials,Diversified Banks,https://www.sec.gov/Archives/edgar/data/28412/000002841223000094/0000028412-23-000094.txt
+818479,XRAY,DENTSPLY SIRONA Inc.,Dentsply Sirona,2008-11-14,Health Care,Health Care Supplies,https://www.sec.gov/Archives/edgar/data/818479/000081847923000017/0000818479-23-000017.txt
+46080,HAS,"HASBRO, INC.",Hasbro,1984-09-30,Consumer Discretionary,Leisure Products,https://www.sec.gov/Archives/edgar/data/46080/000004608023000017/0000046080-23-000017.txt
+851968,MHK,MOHAWK INDUSTRIES INC,Mohawk Industries,2013-12-23,Consumer Discretionary,Home Furnishings,https://www.sec.gov/Archives/edgar/data/851968/000085196823000033/0000851968-23-000033.txt
+106640,WHR,WHIRLPOOL CORP /DE/,Whirlpool Corporation,1958-03-31,Consumer Discretionary,Household Appliances,https://www.sec.gov/Archives/edgar/data/106640/000010664023000015/0000106640-23-000015.txt
+109380,ZION,"ZIONS BANCORPORATION, NATIONAL ASSOCIATION /UT/",Zions Bancorporation,2001-06-22,Financials,Regional Banks,https://www.sec.gov/Archives/edgar/data/109380/000010938023000074/0000109380-23-000074.txt
+912595,MAA,MID AMERICA APARTMENT COMMUNITIES INC.,Mid-America Apartment Communities,2016-12-02,Real Estate,Multi-Family Residential REITs,https://www.sec.gov/Archives/edgar/data/912595/000095017023002778/0000950170-23-002778.txt
